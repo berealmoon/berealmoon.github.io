@@ -96,7 +96,7 @@ body{
     background: #c7265c;
 }
 footer{
-    background: #111;
+    background: #410e1f;
     height: auto;
     width: 100vw;
     padding-top: 40px;
@@ -136,7 +136,7 @@ footer{
 }
 
 .footer-bottom{
-    background: #000;
+    background: #1f060e;
     width: 100vw;
     padding: 20px 0;
     text-align: center;
