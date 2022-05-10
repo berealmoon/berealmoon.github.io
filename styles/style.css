@@ -116,7 +116,6 @@ footer{
     line-height: 3;
 }
 .socials{
-    list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
