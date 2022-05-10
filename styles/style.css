@@ -129,7 +129,7 @@ footer{
     text-decoration: none;
     color: #fff;
     font-size: 1.1rem;
-    transition: color .4s ease;
+    transition: 0.5s ;
 }
 .socials a:hover{
     color: #c7265c;
