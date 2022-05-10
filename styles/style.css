@@ -115,12 +115,6 @@ footer{
     text-transform: capitalize;
     line-height: 3rem;
 }
-.footer-content p{
-    max-width: 500px;
-    margin: 10px auto;
-    line-height: 28px;
-    font-size: 14px;
-}
 .socials{
     list-style: none;
     display: flex;
