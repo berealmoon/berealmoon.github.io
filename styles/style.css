@@ -99,7 +99,7 @@ footer{
     background: #410e1f;
     height: auto;
     width: 100vw;
-    padding-top: 25px;
+    padding-top: 40px;
     color: #fff;
 }
 .footer-content{
@@ -110,21 +110,23 @@ footer{
     text-align: center;
 }
 .footer-content h3{
-    font-size: 1.8;
+    font-size: 1.8rem;
     font-weight: 400;
     text-transform: capitalize;
-    line-height: 3;
+    line-height: 3rem;
 }
 .socials{
+    list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1 0 3 0;
+    margin: 1rem 0 3rem 0;
 }
 .socials li{
     margin: 0 10px;
 }
 .socials a{
+    text-decoration: none;
     color: #fff;
     font-size: 1.1;
     transition: 0.5s;
