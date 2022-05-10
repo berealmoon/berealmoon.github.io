@@ -93,7 +93,7 @@ button:hover span{
     width: 100%;
 }
 body{
-    background: #fcfcfc;
+    background: #c7265c;
 }
 footer{
     background: #111;
@@ -128,13 +128,10 @@ footer{
 .socials a{
     text-decoration: none;
     color: #fff;
-}
-.socials a i{
     font-size: 1.1rem;
     transition: color .4s ease;
-
 }
-.socials a:hover i{
+.socials a:hover{
     color: #c7265c;
 }
 
