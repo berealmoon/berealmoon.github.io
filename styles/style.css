@@ -144,5 +144,8 @@ footer{
 .footer-bottom a{
     font-size: 14px;
     word-spacing: 2px;
-    text-transform: capitalize;
+    text-transform: none;
+}
+.footer-bottom a:hover{
+    color: #c7265c;
 }
