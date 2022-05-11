@@ -141,7 +141,7 @@ footer{
     padding: 20px 0;
     text-align: center;
 }
-.footer-bottom p{
+.footer-bottom a{
     font-size: 14px;
     word-spacing: 2px;
     text-transform: capitalize;
