@@ -142,6 +142,8 @@ footer{
     text-align: center;
 }
 .footer-bottom a{
+    text-decoration: none;
+    color: #fff;
     font-size: 14px;
     word-spacing: 2px;
     text-transform: none;
