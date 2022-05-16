@@ -20,7 +20,8 @@
     justify-content: space-between;
 }
 .logo{
-    width: 120px;
+    width: 95px;
+    border-radius: 10px;
     cursor: pointer;
 }
 .navbar ul li{
@@ -38,7 +39,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background: #c7265c;
+    background: #11328d;
     position: absolute;
     left: 0;
     bottom: -5px;
@@ -71,7 +72,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #c7265c;
+    border: 2px solid #11328d;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -79,7 +80,7 @@ button{
     overflow: hidden;
 }
 span{
-    background: #c7265c;
+    background: #11328d;
     height: 100%;
     width: 0;
     border-radius: 25px;
@@ -93,10 +94,10 @@ button:hover span{
     width: 100%;
 }
 body{
-    background: #c7265c;
+    background: #11328d;
 }
 footer{
-    background: #410e1f;
+    background: #0b1f57;
     height: auto;
     width: 100vw;
     padding-top: 40px;
@@ -132,11 +133,11 @@ footer{
     transition: color .4s ease;
 }
 .socials a:hover{
-    color: #c7265c;
+    color: #11328d;
 }
 
 .footer-bottom{
-    background: #1f060e;
+    background: #050e27;
     width: 100vw;
     padding: 20px 0;
     text-align: center;
@@ -149,5 +150,5 @@ footer{
     text-transform: none;
 }
 .footer-bottom a:hover{
-    color: #c7265c;
+    color: #11328d;
 }
