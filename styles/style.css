@@ -70,7 +70,7 @@ button{
     padding: 15px 0;
     text-align: center;
     margin: 20px 10px;
-    border-radius: 25px;
+    border-radius: 10px;
     font-weight: bold;
     border: 2px solid #11328d;
     background: transparent;
@@ -83,7 +83,7 @@ span{
     background: #11328d;
     height: 100%;
     width: 0;
-    border-radius: 25px;
+    border-radius: 10px;
     position: absolute;
     left: 0;
     bottom: 0;
