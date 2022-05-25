@@ -148,8 +148,8 @@ footer{
     font-size: 14px;
     word-spacing: 2px;
     text-transform: none;
+    transition: color .4s ease;
 }
 .footer-bottom a:hover{
     color: #11328d;
-    transition: color .4s ease;
 }
