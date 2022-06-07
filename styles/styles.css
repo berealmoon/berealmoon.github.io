@@ -24,12 +24,6 @@ p{
     font-size: 1.3rem;
     color: rgb(150, 150, 150);
 }
-h2{
-    position: relative;
-    font-size: 1rem;
-    color: #646464;
-    text-decoration: none;
-}
 .socials{
     display: flex;
     flex-direction: row;
