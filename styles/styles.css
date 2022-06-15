@@ -5,8 +5,8 @@
     font-family: 'Fredoka One', cursive;
     box-sizing: border-box;
 }
+
 body{
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,6 +35,18 @@ p{
     width: 105px;
     transition: 0.5s;
 }
+
+.akia{
+    width: 450px;
+    border-radius: 14px;
+    
+}
+.akia:hover{
+    width: 500px;
+    box-shadow: 0 0 15px #5fb2e9;
+    transition: 0.5s;
+}
+
 .socials{
     display: flex;
     flex-direction: row;
@@ -112,6 +124,7 @@ p{
     text-align: center;
     flex-direction: row;
   }
+
 
 /* Media Queries */
 
