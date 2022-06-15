@@ -28,11 +28,13 @@ p{
     text-shadow: 0 0 15px #606197;
 }
 .logo{
-    width: 95px;
+    border-radius: 14px;
+    width: 105px;
     
 }
 .logo:hover{
-    width: 105px;
+    box-shadow: 0 0 20px #e9a25f;
+    width: 115px;
     transition: 0.5s;
 }
 
