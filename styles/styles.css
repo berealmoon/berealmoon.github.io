@@ -19,13 +19,13 @@ h1{
     text-align: center;
     font-size: 2.5rem;
     color: #fff;
-    text-shadow: 0 0 25px #6163e2;
+    text-shadow: 0 0 25px #ff0077;
 }
 p{
     text-align: center;
     font-size: 1.3rem;
-    color: #898bda;
-    text-shadow: 0 0 15px #606197;
+    color: #ff0077;
+    text-shadow: 0 0 15px #b40154;
 }
 .logo{
     border-radius: 14px;
@@ -45,7 +45,7 @@ p{
 }
 .akia:hover{
     width: 500px;
-    box-shadow: 0 0 20px #5fb2e9;
+    box-shadow: 0 0 20px #b80056;
     transition: 0.5s;
 }
 
@@ -56,7 +56,7 @@ p{
 
 .socials a{
     position: relative;
-    background: #898bda;
+    background: #c41d6b;
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
@@ -75,7 +75,7 @@ p{
     content: '';
     position: absolute;
     inset: 2px;
-    background: #0e0f28;
+    background: #3d0b22;
 }
 .socials a span{
     position: relative;
@@ -93,7 +93,7 @@ p{
     width: 10px;
     height: 5px;
     border: 2px solid var(--clr);
-    background: #0e0f28;
+    background: #3d0b22;
     transform: translateX(-50%);
     transition: 0.5s;
 }
@@ -109,7 +109,7 @@ p{
     width: 10px;
     height: 5px;
     border: 2px solid var(--clr);
-    background: #0e0f28;
+    background: #3d0b22;
     transform: translateX(-50%);
     transition: 0.5s;
 }
